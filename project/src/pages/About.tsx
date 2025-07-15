@@ -54,6 +54,9 @@ export default function About() {
     { name: "Steers", logo: "/steers1.PNG" },
     { name: "Krispy Kreme", logo: "/krispy kreme copy.PNG" },
     { name: "Adidas", logo: "/adidas1.PNG" },
+    { name: "engen", logo: "/engen.PNG" },
+    { name: "tota", logo: "/total.PNG" },
+    { name: "hoka", logo: "/hoka.PNG" },
     { name: "McDonald's", logo: "/mcDonalds.PNG" }
   ];
 
